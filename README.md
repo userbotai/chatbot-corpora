@@ -13,4 +13,4 @@ Here are listed some metrics on test accuracy for several chatbot platforms (inc
 | Rasa        	| 0.98    	| 0.86       	| 0.74             	| 0.88    	|
 | Snips       	| 0.96    	| 0.83       	| 0.78             	| 0.89    	|
 | Recast      	| 0.99    	| 0.86       	| 0.75             	| 0.89    	|
-| *Userbot NLU* 	| *0.98*    	| *0.92*       	| *0.83*             	| *0.91*    	|
+| **Userbot NLU** 	| **0.98**    	| **0.92**       	| **0.83**             	| **0.91**    	|
